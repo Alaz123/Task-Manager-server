@@ -8,10 +8,10 @@ const app = express();
 
 // create a connection with database
 const connection = mysql.createConnection({
-	user: "sql8691199",
-	host: "sql8.freemysqlhosting.net",
-	database: "sql8691199",
-	password: "YYqW48Kmmd",
+	user: "sql8691388",
+	host: "sql8.freesqldatabase.com",
+	database: "sql8691388",
+	password: "bvIXPUqWy1",
 	port: 3306,
 });
 
